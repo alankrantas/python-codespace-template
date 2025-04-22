@@ -1,2 +1,1 @@
-# python-codespace-template
-Template for developing Python in Codespace
+# Template for developing Python in Codespace
