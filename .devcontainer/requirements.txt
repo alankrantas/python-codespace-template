@@ -1,0 +1,15 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+seaborn
+flaml
+flaml[automl]
+flaml[forecast]
+transformers
+flask
+pydot
+pydot_ng
+ipykernel
+IProgress
