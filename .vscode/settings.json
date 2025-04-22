@@ -1,0 +1,12 @@
+{
+	"cSpell.enabled": true,
+	"cSpell.diagnosticLevel": "Warning",
+	"cSpell.language": "en",
+	"cSpell.enableFiletypes": ["py", "ipynb", "json", "md"],
+	"cSpell.ignorePaths": [],
+	"cSpell.dictionaryDefinitions": [],
+	"cSpell.dictionaries": [],
+	"cSpell.words": [],
+	"cSpell.ignoreWords": [],
+	"cSpell.import": []
+}
